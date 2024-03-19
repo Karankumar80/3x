@@ -31,7 +31,7 @@ const Services = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Our services cater to a diverse range of needs, offering tailored solutions to amplify efficiency and streamline processes. From comprehensive data analytics and strategic consultancy to bespoke software development and seamless integration
+              Our services cater to a diverse range of needs, offering tailored solutions to amplify efficiency and streamline processes.
             </motion.p>
           </div>
 
