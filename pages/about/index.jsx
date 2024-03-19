@@ -136,7 +136,7 @@ const About = () => {
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
             
-💯Intern at CodePhine | Ex-Intern at Prodigy Infotech 🌐💻 | Transforming data into insights, 📊💡 Let's create a data-driven future!.
+ Transforming data into insights, 📊💡 Let's create a data-driven future!.
            
           
           </motion.p>
