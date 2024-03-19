@@ -29,7 +29,7 @@ const Work = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-             My projects aims to revolutionize data analysis. Through seamless integration of user-friendly interfaces and robust backend systems, we empower  professionals to make informed decisions swiftly and effectively."
+             My projects aims to revolutionize data analysis. Through seamless integration of user-friendly interfaces and robust backend systems."
             </motion.p>
           </div>
 
