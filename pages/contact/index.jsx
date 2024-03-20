@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { BsArrowRight } from "react-icons/bs";
-
+import Avatar from "../../components/Avatar";
 import { fadeIn } from "../../variants";
 import { useState } from "react";
 
@@ -39,7 +39,16 @@ const Contact = () => {
           >
             Let's <span className="text-accent">connect.</span>
           </motion.h2>
-
+ {/* avatar img */}
+ <motion.div
+        variants={fadeIn("right", 0.2)}
+        initial="hidden"
+        animate="show"
+        exit="hidden"
+        className="hidden xl:flex absolute bottom-45 -left-[300px]"
+      >
+        <Avatar />
+      </motion.div>
           {/* form */}
           <motion.form
             variants={fadeIn("up", 0.4)}
