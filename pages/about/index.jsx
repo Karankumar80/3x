@@ -86,7 +86,7 @@ export const aboutData = [
         stage: "Oct 2023",
       },
       {
-        title: "Machine Learning - University Of Michigan",
+        title: "Blockchain - University Of Michigan",
         stage: "Sep 2023",
       },
       {
